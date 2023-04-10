@@ -1,1 +1,2 @@
 $DBserver="localhost";
+$DBname="OMF";
